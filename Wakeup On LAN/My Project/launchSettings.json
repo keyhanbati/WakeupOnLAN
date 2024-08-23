@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Wakeup On LAN": {
+      "commandName": "Project",
+      "commandLineArgs": "cli"
+    }
+  }
+}
